@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.cvn {
+  margin: 0;
+  border: 2px solid #BEBEBE;
+  border-right: none;
+}
+
+.container_elem {
+  font-size: 0;
+}
+
+.bnt_border {
+  border-right: 2px solid #BEBEBE;
+}/*# sourceMappingURL=style.css.map */
